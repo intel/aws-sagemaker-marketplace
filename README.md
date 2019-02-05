@@ -1,3 +1,4 @@
+
 # Intel AI Software on AWS SageMaker Marketplace
 
 This repo contain example notebooks with instructions on using Intel AI Software listed in AWS SageMaker Marketplace.
@@ -11,8 +12,11 @@ Intel has listed the following AI software tools and libraries on  AWS Marketpla
 	- k-Nearest Neighbors (kNN)
 	- Logistic Regression
 	- Decision Forest Regression
-- Intel® Optimized Deep Learning Libraries(https://www.intel.ai/framework-optimizations/)
+- [Intel® Optimized Deep Learning Libraries](https://www.intel.ai/framework-optimizations/)
 	- Intel Optimized MXNet ResNet50 Inference
 -  [BigDL](https://software.intel.com/en-us/ai-academy/frameworks/bigdl), a distributed deep  learning  library  for  Apache Spark.
 	- BigDL Text Classifier on Analytics Zoo
-  
+
+
+
+ 
