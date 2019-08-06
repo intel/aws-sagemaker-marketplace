@@ -1,4 +1,5 @@
 
+
 # Intel AI Software on AWS SageMaker Marketplace
 
 This repo contain example notebooks with instructions on using Intel AI Software listed in AWS SageMaker Marketplace.
@@ -7,12 +8,12 @@ Intel and [AWS](https://aws.amazon.com/), a subsidiary of Amazon that provides o
 
 Intel has listed the following AI software tools and libraries on [AWS Marketplace](https://aws.amazon.com/marketplace/search/results?page=1&filters=vendor_id,fulfillment_options&vendor_id=a35b6cd1-6ad5-47c4-ac34-3e7b30c6d3a9&fulfillment_options=SAGEMAKER) (more coming soon):
 - [Intel® Data Analytics Acceleration Library (DAAL)](https://software.intel.com/en-us/intel-daal)
-	- [Principal Component Analysis (PCA)](https://github.com/IntelAI/aws-sagemaker-marketplace/blob/master/daal/pca-example.ipynb)
-	- [Logistic Regression](https://github.com/IntelAI/aws-sagemaker-marketplace/blob/master/daal/logistic-regression-example.ipynb)
-	- [Decision Forest Regression](https://github.com/IntelAI/aws-sagemaker-marketplace/blob/master/daal/decision-forest-example.ipynb)
-	- [Decision Forest Classification](https://github.com/IntelAI/aws-sagemaker-marketplace/blob/master/daal/decision-forest-example.ipynb)
-	- [K-Means](https://github.com/IntelAI/aws-sagemaker-marketplace/blob/master/daal/kmeans-example.ipynb)
-	- [k-Nearest Neighbors (kNN) Classifier](https://github.com/IntelAI/aws-sagemaker-marketplace/blob/master/daal/k-nearest-neighbors-example.ipynb)
+	- Principal Component Analysis (PCA) - [SDK usage](daal/pca-example.ipynb), [AWS Portal usage](daal/web-usage/pca-web-usage.pdf)
+	- Logistic Regression - [SDK usage](daal/logistic-regression-example.ipynb), [AWS Portal usage](daal/web-usage/log-reg-web-usage.pdf)
+	- Decision Forest Regression - [SDK usage](daal/decision-forest-example.ipynb), [AWS Portal usage](daal/web-usage/decision-forest-web-usage.pdf)
+	- Decision Forest Classification - [SDK usage](daal/decision-forest-example.ipynb), [AWS Portal usage](daal/web-usage/decision-forest-web-usage.pdf)
+	- K-Means- [SDK usage](daal/kmeans-example.ipynb), [AWS Portal usage](daal/web-usage/kmeans-web-usage.pdf)
+	- k-Nearest Neighbors (kNN) Classifier - [SDK usage](daal/k-nearest-neighbors-example.ipynb), [AWS Portal usage](daal/web-usage/knn-web-usage.pdf)
 
 - [Intel® Optimized Deep Learning Libraries](https://www.intel.ai/framework-optimizations/)
 	- Intel Optimized MXNet ResNet50 Inference
@@ -20,5 +21,3 @@ Intel has listed the following AI software tools and libraries on [AWS Marketpla
 	- BigDL Text Classifier on Analytics Zoo
 
 
-
- 
